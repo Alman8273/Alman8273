@@ -35,7 +35,8 @@
   </div>
 <div align="center">
 <img src="https://github.com/Alman8273/Alman8273/blob/main/enjoy-toast.gif"> </div>
-
+<br><br>  <div align="center">
+ <a href="#"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alman8273&hide=C%23,shell&hide_title=false&title_color=C0FF00&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dark" /></a>
 
 ------------------------------------------------------------------ 
     
@@ -45,3 +46,5 @@
   <a href="https://www.linkedin.com/in/alberto8273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="ajmastrofrancesco@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discordapp.com/users/Alman#8273" target="_blank"><img src="https://img.shields.io/badge/Discord-871F78?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 	
+
+ 
