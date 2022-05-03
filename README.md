@@ -35,7 +35,7 @@
   <br> 
   </div>
   <div align="center">
- <a href="#"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alman8273&hide=C%23,shell&show=java&hide_title=false&title_color=C0FF00&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dark" /></a> <br>
+ <a href="#"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alman8273&hide=C%23,shell&show=java&title_color=C0FF00&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dark" /></a> <br>
 <br>  
     <div align="center">
 <img src="https://github.com/Alman8273/Alman8273/blob/main/enjoy-toast.gif"> </div>
