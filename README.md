@@ -44,5 +44,4 @@
   <b>Explore more or contact me</b> <br> <br>
   <a href="https://tinyurl.com/ajm8273" target="_blank"><img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge" alt="My website"></a>
   <a href="https://www.linkedin.com/in/alberto8273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="ajmastrofrancesco@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discordapp.com/users/Alman#8273" target="_blank"><img src="https://img.shields.io/badge/Discord-871F78?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
